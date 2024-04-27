@@ -346,7 +346,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Pretendard', 'Roboto', Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
   background-color: #ffffff;
@@ -389,7 +389,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'PT Serif', serif;
+  font-family: 'Pretendard', 'PT Serif', serif;
   font-weight: 400;
   line-height: 1.5;
   margin: 0 0 30px;
@@ -397,7 +397,7 @@ h6 {
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: 'Pretendard', 'PT Serif', serif;
   line-height: 1.58;
   margin: 0 0 30px;
   color: rgba(0, 0, 0, 0.8);
@@ -589,7 +589,7 @@ table tr:hover {
 .btn {
   padding: 20px;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Pretendard', 'Lato', sans-serif;
   font-size: 14px;
   line-height: 14px;
   display: inline-block;
@@ -668,7 +668,7 @@ table tr:hover {
 
 .site-logo a {
   display: inline-block;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Pretendard', 'Dancing Script', cursive;
   font-size: 36px;
   font-weight: 400;
   text-decoration: none;
@@ -694,7 +694,7 @@ table tr:hover {
   position: relative;
   font-size: 12px;
   padding: 22px 30px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Pretendard', 'Lato', sans-serif;
   letter-spacing: 0.8px;
   line-height: 60px;
   font-weight: 700;
@@ -1142,7 +1142,7 @@ table tr:hover {
 }
 
 .post-thumbnail .author-box .author-info {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Pretendard', 'Roboto', Arial, Helvetica, sans-serif;
   margin-left: 10px;
   color: #ffffff;
   letter-spacing: 0.8px;
@@ -1208,14 +1208,14 @@ table tr:hover {
 }
 
 .post-body p {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Pretendard', 'Roboto', Arial, Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.6;
   color: #787878;
 }
 
 .post-body .more {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Pretendard', 'Roboto', Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: #222;
   font-size: 14px;
@@ -1501,7 +1501,7 @@ table tr:hover {
 
 .post-author .post-author-info .post-author-bio {
   font-size: 14px;
-  font-family: Roboto, sans-serif;
+  font-family: 'Pretendard', Roboto, sans-serif;
   margin-bottom: 0;
 }
 
@@ -1661,7 +1661,7 @@ table tr:hover {
 }
 
 .footer-nav a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Pretendard', 'Lato', sans-serif;
   margin-right: 20px;
   text-transform: uppercase;
   text-decoration: none;
@@ -1696,7 +1696,7 @@ table tr:hover {
 .site-footer .footer-heading {
   margin: 0 0 30px;
   font-size: 37px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Pretendard', 'Dancing Script', cursive;
   text-align: center;
   font-weight: 400;
   line-height: 30px;
